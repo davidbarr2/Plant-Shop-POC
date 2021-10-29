@@ -12,9 +12,6 @@ export default class PlantList extends Component {
     .then(res => this.setState({plants: res.data}))
     .catch( err => console.log(err))
   }
-  // when the component mounts:
-  //   - fetch data from the server endpoint - http://localhost:3333/plants
-  //   - set the returned plants array to this.state.plants
 
   /*********  DON'T CHANGE ANYTHING IN THE RENDER FUNCTION *********/
   render() {
