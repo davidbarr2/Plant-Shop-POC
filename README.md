@@ -6,9 +6,16 @@
 ### See live
 https://wso09.csb.app/
 
+Browse Products
 ![Browse Products](https://user-images.githubusercontent.com/48306510/141144360-16928347-e035-41d6-a443-52eaccbd5025.png)
+
+View Cart - optionally remove from cart
 ![View Cart - optionally remove from cart](https://user-images.githubusercontent.com/48306510/141144368-bb2c66e7-d05d-41a8-aa00-315bdbca4fa8.png)
+
+Checkout Form (empty)
 ![Checkout Form - Empty](https://user-images.githubusercontent.com/48306510/141144378-1d8b2499-d4d9-4e7d-bd3d-c4d558a44c20.png)
+
+Submitted Checkout Form
 ![Submitted Checkout Form](https://user-images.githubusercontent.com/48306510/141144352-788dba2e-1559-4830-a067-3aba3ae5c906.png)
 
 
