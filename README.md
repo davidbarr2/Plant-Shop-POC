@@ -6,6 +6,12 @@
 ### See live
 https://wso09.csb.app/
 
+![Browse Products](https://user-images.githubusercontent.com/48306510/141144360-16928347-e035-41d6-a443-52eaccbd5025.png)
+![View Cart - optionally remove from cart](https://user-images.githubusercontent.com/48306510/141144368-bb2c66e7-d05d-41a8-aa00-315bdbca4fa8.png)
+![Checkout Form - Empty](https://user-images.githubusercontent.com/48306510/141144378-1d8b2499-d4d9-4e7d-bd3d-c4d558a44c20.png)
+![Submitted Checkout Form](https://user-images.githubusercontent.com/48306510/141144352-788dba2e-1559-4830-a067-3aba3ae5c906.png)
+
+
 ### Project Requirements
 * Create ecommerce site
 * Users can browse products
@@ -46,12 +52,3 @@ https://wso09.csb.app/
 * Further develop checkout payment- add fields for credit cards and leverage Stripe for payment functionality
 * Connect to your true database of plants for sale
 * Leverage Yup for additional form validation
-
-
-### Test the Checkout Form
-* Run the test runner and ensure that `src/components/CheckoutForm.test.js` is correctly called.
-* Fill out code necessary to test that that Checkout form renders without errors.
-* Fill out code necessary to test that when all form inputs are filled with valid data, a success message appears.
-* Make sure the tests are passing, and make sure you can cause the tests to fail purposefully, so that you know the tests are truly working.
-
-
